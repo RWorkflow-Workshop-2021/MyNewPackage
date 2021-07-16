@@ -7,6 +7,8 @@
 #'   \item carat. weight of the diamond
 #' }
 #'
+#' @docType data
+#' @name WWW2
 #' @usage data(WWW2)
 #' @format A ts object.
-"WWW2"
+NULL
