@@ -1,4 +1,12 @@
-# Hello, world!
-hello <- function(mytext) {
+#' @title Hello
+#'
+#' @description This is the new function.
+#'
+#' Another paragraph.
+#'
+#' @param mytext text to print
+#'
+#' @export
+hello <- function(mytext, b=1) {
   print(paste("Hello, world!\n", mytext))
 }

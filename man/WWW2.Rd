@@ -14,8 +14,7 @@ data(WWW2)
 WWW data squared.
 
 \itemize{
-  \item price. price in US dollars
-  \item carat. weight of the diamond
+\item price. price in US dollars
+\item carat. weight of the diamond
 }
 }
-\keyword{datasets}
