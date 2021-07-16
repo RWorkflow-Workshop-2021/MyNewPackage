@@ -10,7 +10,8 @@ hello(mytext, b = 1)
 \item{mytext}{text to print}
 }
 \description{
-This is the new function.
+This is the new function. The other function is \code{\link[=littleforecast]{littleforecast()}}.
+\code{\link{littleforecast}()}.
 
 Another paragraph.
 }

@@ -1,0 +1,16 @@
+---
+title: "testVignette"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{testVignette}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r setup}
+library(MyNewPackage)
+```
+
+```{r}
+plot(1:10)
+```
