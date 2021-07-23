@@ -4,8 +4,12 @@
 \alias{littleforecast}
 \title{Little Forecast}
 \usage{
-littleforecast(data, nyears = 10)
+littleforecast(data, nyears = 10, type = c("red", "blue", "green"))
 }
 \description{
 This does an arima forecast
+}
+\examples{
+library(stats)
+lm(a ~ b, data=df)
 }
